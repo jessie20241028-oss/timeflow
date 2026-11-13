@@ -1,0 +1,6 @@
+{
+  "name": "TimeFlow｜个人时间管理与成长分析系统",
+  "description": "极简个人时间记录、自动日记生成、多维统计分析与AI成长复盘系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
